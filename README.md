@@ -10,6 +10,10 @@
 
 - ⚡ Fun fact **I love living with my cats.**
 
+**You can reach me at:**
+
+[![Facebook](https://img.shields.io/badge/-Contact%20me%20on%20Facebook-3b5998?style=for-the-badge)](https://fb.com/nay.n.chan.10) [![Gmail](https://img.shields.io/badge/-Email%20Me-B23121?style=for-the-badge)](mailto:naychan700@gmail.com)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
