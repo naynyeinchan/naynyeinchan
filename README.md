@@ -2,13 +2,11 @@
 <h3 align="center">Web Developer</h3>
 
 
-- 🌱 I’m currently learning **Laravel And Vue**
+- 🌱 I’m **Laravel And Vue** Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/naynyeinchan/](https://github.com/naynyeinchan/)
 
 - 💬 Ask me about **Laravel And Vue**
-
-- ⚡ Fun fact **I love living with my cats.**
 
 **You can reach me at:**
 
